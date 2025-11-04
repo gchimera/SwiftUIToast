@@ -1,9 +1,9 @@
 # SwiftUIToast
 
 A beautiful, customizable toast notification library for SwiftUI iOS applications. Perfect for providing user feedback, success messages, warnings, and errors in a non-intrusive way.
-
+<br>
 <p align="left">
-  <img src="https://github.com/gchimera/chimeradev.app/blob/main/Simulator14.27.49.gif" width="200" height="800" alt="Anteprima App" />
+  <img src="https://github.com/gchimera/chimeradev.app/blob/main/Simulator14.27.49.gif" width="200" height="1000" alt="Anteprima App" />
 </p>
 
 ## Features
