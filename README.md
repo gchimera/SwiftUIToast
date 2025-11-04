@@ -16,14 +16,14 @@ A beautiful, customizable toast notification library for SwiftUI applications. P
 Add SwiftUIToast to your project using Swift Package Manager:
 
 1. In Xcode, select **File > Add Packages...**
-2. Enter the package URL: `https://github.com/your-username/SwiftUIToast.git`
+2. Enter the package URL: `https://github.com/gchimera/SwiftUIToast.git`
 3. Select the version you want to use
 
 Or add it directly to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-username/SwiftUIToast.git", from: "1.0.0")
+    .package(url: "https://github.com/gchimera/SwiftUIToast.git", from: "1.0.0")
 ]
 ```
 
