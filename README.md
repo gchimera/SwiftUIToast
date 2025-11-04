@@ -2,6 +2,8 @@
 
 A beautiful, customizable toast notification library for SwiftUI iOS applications. Perfect for providing user feedback, success messages, warnings, and errors in a non-intrusive way.
 
+![Descrizione GIF](https://github.com/gchimera/chimeradev.app/blob/main/Simulator14.27.49.gif)
+
 ## Features
 
 - 🍎 Native SwiftUI implementation
