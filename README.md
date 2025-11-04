@@ -4,6 +4,10 @@ A beautiful, customizable toast notification library for SwiftUI iOS application
 
 ![Descrizione GIF](https://github.com/gchimera/chimeradev.app/blob/main/Simulator14.27.49.gif)
 
+<p align="center">
+  <img src="https://github.com/gchimera/chimeradev.app/blob/main/Simulator14.27.49.gif" height="400" alt="Anteprima App" />
+</p>
+
 ## Features
 
 - 🍎 Native SwiftUI implementation
